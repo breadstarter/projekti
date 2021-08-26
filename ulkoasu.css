@@ -8,3 +8,25 @@ div{
   color: black;
   text-align: center;
 }
+
+#väliotsikko{
+  background-color: pink;
+  color: rgb(39, 93, 114);
+  text-align: left
+}
+
+.koodausDiv{
+  background-color: pink;
+}
+
+#kolmasotsikko{
+  background-color: black;
+  color: rgb(39, 93, 114);
+  text-align: left
+}
+
+.boksit{
+  list-style-type: none;
+  color: white;
+  text-align: center;
+}
